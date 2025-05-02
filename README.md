@@ -1,6 +1,7 @@
 # AlertAI: Drowsiness & Distraction Detection System
 
 AlertAI is a real-time monitoring system that detects signs of drowsiness, distraction, and other alertness issues using computer vision and provides audio alerts to prevent accidents.
+![Results](assets/results.png)
 
 ## Features
 
