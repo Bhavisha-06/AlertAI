@@ -41,7 +41,7 @@ pip install -r requirements.txt
 2. Run the detection script:
 
 ```bash
-python alert_ai.py
+python alertai.py
 ```
 
 3. To quit, press 'q' while the detection window is active
