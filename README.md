@@ -28,7 +28,7 @@ AlertAI is a real-time monitoring system that detects signs of drowsiness, distr
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/AlertAI.git
+git clone https://github.com/Bhavisha-06/AlertAI.git
 cd AlertAI
 
 # Install dependencies
